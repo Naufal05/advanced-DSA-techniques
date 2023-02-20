@@ -1,0 +1,2 @@
+1. sliding
+    use the sliding window technique
